@@ -16,7 +16,7 @@ void setup(){
 }
 
 void draw(){
-  background(0,0,0);
+  background(253,253,150);
   drawApple(x,y);
   drawSnake(xsnake,ysnake);
   moveSnake();
